@@ -1,4 +1,4 @@
-# Product Bridge (Fullstack)
+# FiyatRadar
 
 Bu repo **NestJS (backend)** + **React/Vite (frontend)** ile geliştirilmiş bir fullstack uygulamadır.
 
